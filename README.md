@@ -11,3 +11,7 @@ Here are some of the commands that the bot will respond to:
 - `/arctos-help` - Receive assistance navigating the bot's commands!
 
 Feel free to demo this project on Slack!
+
+Credits:
+- Hack Club - Stardance Challenge for introducing me to the first couple commands, including `arctos-catfact` and `arctos-joke`!
+- RPG Dice Roller for allowing `arctos-diceroll` to even exist!
